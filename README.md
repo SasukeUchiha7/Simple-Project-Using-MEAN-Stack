@@ -29,6 +29,7 @@ npm i --save express body-parser cors moongoose @angular/cli
 * cors: Since the client and server will be on different urls.
 * angular/cli: Here you are using angular/cli module of npm .
 
+### Building
 Now you have to make your main/starting file like here you have _app.js_.
 
 Now you have to start mongo DB server. For that in your mongoshell run:
