@@ -1,0 +1,21 @@
+{
+  "name": "my_first_mean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "ApilT",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^9.1.9",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "mongoose": "^5.9.20",
+    "nodemon": "^2.0.4"
+  }
+}
