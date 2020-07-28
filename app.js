@@ -19,7 +19,7 @@ mongoose.connection.on('error',(err)=>{
 
 //Setups
 const app = express();
-const port = 3000;
+const port = 4000;
 
 app.use(function(req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
